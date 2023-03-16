@@ -9,7 +9,7 @@ public class Main {
 
     public final static int TIME_TICK_SIZE = 2000;
 
-    public final static int TICK_MAX = 10;
+    public final static int TICK_MAX = 1000;
     public enum bookSection {
         FICTION, HORROR, ROMANCE, FANTASY, POETRY, HISTORY
     }
